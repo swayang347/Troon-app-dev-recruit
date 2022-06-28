@@ -1,1 +1,3 @@
-# Troon-app-dev-recruit
+# Use this repo to add in your assignment
+
+# ---Steps---
